@@ -1,4 +1,7 @@
 # git-course-excersise
+
+<b>Hi Jim!!</b>
+
 This is a excersise of the git-course@inbo
 
 this is the first unrelated change
