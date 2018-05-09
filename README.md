@@ -2,6 +2,8 @@
 
 <b>Hi Jim!!</b>
 
+<b>Hello Jim</b>
+
 This is a excersise of the git-course@inbo
 
 this is the first unrelated change
