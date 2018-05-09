@@ -22,3 +22,6 @@ dit nog niet
 Our teacher was Stijn 
 
 and now we create problems 
+
+nu op ons eigen 
+
